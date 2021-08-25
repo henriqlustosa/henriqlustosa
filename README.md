@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Henrique Lustosa 👋
 
 - 🔭 I’m currently working on REST API
 - 🌱 I’m currently learning JAVA
